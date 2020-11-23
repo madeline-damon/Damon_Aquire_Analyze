@@ -1,4 +1,4 @@
-# Damon_Aquire_Analyze
+# Damon_Acquire_Analyze
 This is a repository for my Acquire and Analyze project
 
 It is focused on looking at the language used in twenty different conservation nonprofit's mission, vision, and values statments as well as their tweets. 
